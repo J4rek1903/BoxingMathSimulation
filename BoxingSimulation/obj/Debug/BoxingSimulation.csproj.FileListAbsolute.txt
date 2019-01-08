@@ -1,0 +1,7 @@
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\obj\Debug\BoxingSimulation.csprojAssemblyReference.cache
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\obj\Debug\BoxingSimulation.csproj.CoreCompileInputs.cache
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\bin\Debug\BoxingSimulation.exe.config
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\bin\Debug\BoxingSimulation.exe
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\bin\Debug\BoxingSimulation.pdb
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\obj\Debug\BoxingSimulation.exe
+G:\CodingTutorials\Csharp\BoxingSimulation\BoxingSimulation\obj\Debug\BoxingSimulation.pdb
